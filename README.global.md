@@ -1,3 +1,9 @@
+Nom membre du groupe :
+GUYON Clément
+AL RIYAMI Ismail
+ARGÜELLES GONZALEZ Luis Antonio
+
+
 # Refactoring Golf
 
 - Start on hole 1 and refactor the code to be like the code in hole 2
