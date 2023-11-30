@@ -1,4 +1,4 @@
-
+/* eslint-disable */
 const EMPTY_STRING = ' ';
 const PLAYER_O = 'O';
 const ORIGIN_ABS = 0;
